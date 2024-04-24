@@ -1,4 +1,4 @@
-module cloud.google.com/go/ai
+module github.com/vital121/googleai
 
 go 1.19
 
