@@ -19,7 +19,6 @@ package generativelanguage
 import (
 	
 	"log"
-	"os"
 	"bytes"
 	"context"
 	"fmt"
