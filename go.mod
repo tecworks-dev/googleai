@@ -1,4 +1,4 @@
-module github.com/vital121/googleai
+module github.com/vital121/googleai/genai
 
 go 1.19
 
